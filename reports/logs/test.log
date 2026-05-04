@@ -1,0 +1,12 @@
+2026-04-29 01:25:19,784 - INFO - GET Request: https://jsonplaceholder.typicode.com/posts
+2026-04-29 01:25:20,957 - INFO - Response Status: 200
+2026-04-29 01:25:20,991 - INFO - GET Request: https://jsonplaceholder.typicode.com/invalid
+2026-04-29 01:25:25,179 - INFO - Response Status: 404
+2026-04-29 01:25:25,186 - INFO - GET Request: https://jsonplaceholder.typicode.com/posts/1
+2026-04-29 01:25:25,837 - INFO - Response Status: 200
+2026-04-29 01:25:25,848 - INFO - GET Request: https://jsonplaceholder.typicode.com/posts/900
+2026-04-29 01:25:29,681 - INFO - Response Status: 404
+2026-04-29 01:25:29,691 - INFO - GET Request: https://jsonplaceholder.typicode.com/posts?userId=1
+2026-04-29 01:25:31,250 - INFO - Response Status: 200
+2026-04-29 01:25:31,256 - INFO - GET Request: https://jsonplaceholder.typicode.com/posts?userId=abc
+2026-04-29 01:25:32,568 - INFO - Response Status: 200
