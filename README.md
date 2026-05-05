@@ -2,6 +2,8 @@
 
 This Repository contains pytest based test cases which validates the API "https://jsonplaceholder.typicode.com/posts"
 
+---
+
 # Installation
 
 ## Clone Repository
@@ -14,9 +16,10 @@ This Repository contains pytest based test cases which validates the API "https:
    ```pytest```
 # Run specific test file:
    ```pytest tests/test_api.py```
-### Reports are stored in textreports/report.html
-### Logs are automatically stored in textreports/logs/test.log
+### Reports are stored in reports/report.html
+### Logs are automatically stored in reports/logs/test.log
 
+---
 
 # Features
 
