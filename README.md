@@ -5,7 +5,7 @@ This Repository contains pytest based test cases which validates the API "https:
 # Installation
 
 ## Clone Repository
-   ```git clone https://github.com/username/API_Testing.git```
+   ```git clone https://github.com/MalatheshK/API-testing.git```
 ## 2. Navigate to Project
    ```cd API-testing-main```
 # Install Dependencies
